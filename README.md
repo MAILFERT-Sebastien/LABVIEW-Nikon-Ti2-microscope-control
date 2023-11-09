@@ -11,7 +11,7 @@ Ce programme a été testé sous Labview 2023 Q3 64 bits. Il est donc nécessair
 
 
 1. Nikon DLLs
-2. 
+   
 Il est nécessaire d'installer au préalable les dll provenant du SDK Nikon:
 
 * Créer un compte sur le site [NISDK](https://nisdk.recollective.com/microscopes)
