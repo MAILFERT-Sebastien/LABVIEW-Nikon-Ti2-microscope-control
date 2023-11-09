@@ -1,18 +1,18 @@
 # LABVIEW control of a Nikon Ti2 microscope
 [LABVIEW] Control of Nikon Ti2 microscopes
 
-Aim
+## Aim
 
-Prerequisites
+## Prerequisites
 
-Installing
+## Installing
 
-Running the tests
+## Running the tests
 
-Versioning
+## Versioning
 
-Authors
+## Authors
 
-Licence
+## Licence
 
-Acknowledgments
+## Acknowledgments
