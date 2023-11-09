@@ -22,7 +22,10 @@ Il est nécessaire d'installer au préalable les dll provenant du SDK Nikon:
 
 * Téléchargez, dézippez et installez les deux SDK suivants: "Nikon Ti2 SDK 64-Bit" et "Nikon Ti2 ActiveX Wrapper 64-Bit"
 
-* Installez les dll
+* Installez les dll:
+** Ouvrir l'invité de commandes en mode administrateur
+** Se placer dans le répertoire C:/SysWOW64
+** Tapez la commande: 
 
 
 ## Running the tests
