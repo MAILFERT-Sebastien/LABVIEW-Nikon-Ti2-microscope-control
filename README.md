@@ -4,7 +4,7 @@
 This software is designed to control a Nikon Ti2 microscope via Labview.
 As you can see on the following video, the Labview GUI is simple and allows to read the current status of the microscope and control it:
 
-[![Watch the video](https://github.com/MAILFERT-Sebastien/LABVIEW-Nikon-Ti2-microscope-control/blob/main/Labview_Nikon_Ti2_Control.png)](https://youtu.be/x3z7vbhCzYc)
+[![Watch the video](https://github.com/MAILFERT-Sebastien/LABVIEW-Nikon-Ti2-microscope-control/blob/main/Images/Labview_Nikon_Ti2_Control.png)](https://youtu.be/x3z7vbhCzYc)
 
 
 ## Prerequisites
@@ -35,7 +35,7 @@ This program has been tested under Labview 2014 32-bit. It is therefore necessar
       </li>
       </ul>
      
-      ![image](https://github.com/MAILFERT-Sebastien/LABVIEW-Nikon-Ti2-microscope-control/blob/main/regsvr32.png)
+      ![image](https://github.com/MAILFERT-Sebastien/LABVIEW-Nikon-Ti2-microscope-control/blob/main/Images/regsvr32.png)
 
 
       * Depending on your Labview version (32 or 64-bit), you should install the 32 bit version of the dlls
@@ -49,7 +49,7 @@ This program has been tested under Labview 2014 32-bit. It is therefore necessar
       </li>
       </ul>
       
-      ![image](https://github.com/MAILFERT-Sebastien/LABVIEW-Nikon-Ti2-microscope-control/blob/main/regsvr32_32bit.png)
+      ![image](https://github.com/MAILFERT-Sebastien/LABVIEW-Nikon-Ti2-microscope-control/blob/main/Images/regsvr32_32bit.png)
       
 2. Labview code
       Copy the 5 Labview files on your desktop. Several Labview files are provided:
