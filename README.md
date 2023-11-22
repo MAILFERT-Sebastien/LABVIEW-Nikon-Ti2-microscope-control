@@ -22,23 +22,14 @@ Dlls from the Nikon SDK must be installed first::
 
 * Download, unzip and install the two following SDKs: "Nikon Ti2 SDK 64-Bit" and "Nikon Ti2 ActiveX Wrapper 64-Bit"
 
-* Install the dlls:
-   ** Open the command prompt in administrator mode
-   ** Move to the C:/SysWOW64 directory
-   ** Type the command: regsvr32 "C:\Program Files\Nikon\Ti2-SDK\bin\NkTi2Ax.dll"
+ 
 
 <ul>
-<li>Fruit
+<li>Install the dlls:
 <ul>
-<li>Apple</li>
-<li>Orange</li>
-<li>Banana</li>
-</ul>
-</li>
-<li>Dairy
-<ul>
-<li>Milk</li>
-<li>Cheese</li>
+<li>Open the command prompt in administrator mode</li>
+<li>Move to the C:/SysWOW64 directory</li>
+<li>Type the command: regsvr32 "C:\Program Files\Nikon\Ti2-SDK\bin\NkTi2Ax.dll"</li>
 </ul>
 </li>
 </ul>
