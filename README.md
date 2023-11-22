@@ -12,7 +12,7 @@ This program has been tested under Labview 2023 Q3 64-bit. It is therefore neces
 
 1. Nikon DLLs
    
-Dlls from the Nikon SDK must be installed first::
+Dlls from the Nikon SDK must be installed first:
 
 * Create an account on the website [NISDK](https://nisdk.recollective.com/microscopes)
 * Wait for confirmation of registration (several days)
@@ -21,8 +21,6 @@ Dlls from the Nikon SDK must be installed first::
 ![image](https://github.com/MAILFERT-Sebastien/-LABVIEW-Nikon-Ti2-microscope-control/assets/150167221/76514f46-949e-4739-8f99-eeed769e7f44)
 
 * Download, unzip and install the two following SDKs: "Nikon Ti2 SDK 64-Bit" and "Nikon Ti2 ActiveX Wrapper 64-Bit"
-
- 
 
 <ul>
 <li>Install the dlls:
@@ -34,6 +32,7 @@ Dlls from the Nikon SDK must be installed first::
 </li>
 </ul>
 
+2. Labview code
 
 ## Running the tests
 
