@@ -27,6 +27,23 @@ Dlls from the Nikon SDK must be installed first::
    ** Move to the C:/SysWOW64 directory
    ** Type the command: regsvr32 "C:\Program Files\Nikon\Ti2-SDK\bin\NkTi2Ax.dll"
 
+<ul>
+<li>Fruit
+<ul>
+<li>Apple</li>
+<li>Orange</li>
+<li>Banana</li>
+</ul>
+</li>
+<li>Dairy
+<ul>
+<li>Milk</li>
+<li>Cheese</li>
+</ul>
+</li>
+</ul>
+
+
 ## Running the tests
 
 ## Versioning
