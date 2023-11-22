@@ -69,7 +69,7 @@ This program has been tested under Labview 2014 32-bit. It is therefore necessar
 
 ## Versioning
 
-V1.0
+V1.0, 231107
 
 ## Authors
 Sébastien MAILFERT from Institut Fresnel (Marseille, France), CNRS, AMU
