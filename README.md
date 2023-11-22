@@ -31,7 +31,9 @@ This program has been tested under Labview 2023 Q3 64-bit. It is therefore neces
       </ul>
       </li>
       </ul>
+     
       ![image](https://github.com/MAILFERT-Sebastien/LABVIEW-Nikon-Ti2-microscope-control/blob/main/regsvr32.png).
+
 2. Labview code
 
 ## Running the tests
