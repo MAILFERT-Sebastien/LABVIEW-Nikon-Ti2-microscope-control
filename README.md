@@ -26,7 +26,7 @@ This program has been tested under Labview 2023 Q3 64-bit. It is therefore neces
       <li>Install the dlls:
       <ul>
       <li>Open the command prompt in administrator mode</li>
-      <li>Move to the C:/SysWOW64 directory</li>
+      <li>Move to the C:/WINDOWS/SysWOW64 directory</li>
       <li>Type the command: regsvr32 "C:\Program Files\Nikon\Ti2-SDK\bin\NkTi2Ax.dll"</li>
       </ul>
       </li>
@@ -34,6 +34,20 @@ This program has been tested under Labview 2023 Q3 64-bit. It is therefore neces
      
       ![image](https://github.com/MAILFERT-Sebastien/LABVIEW-Nikon-Ti2-microscope-control/blob/main/regsvr32.png).
 
+
+      * Depending on your Labview version (32 or 64-bit), you should install the 32 bit version of the dlls
+      <ul>
+      <li>Install the dlls:
+      <ul>
+      <li>Open the command prompt in administrator mode</li>
+      <li>Move to the C:/WINDOWS/System32 directory</li>
+      <li>Type the command: regsvr32 "C:\Program Files (x86)\Nikon\Ti2-SDK\bin\NkTi2Ax.dll"</li>
+      </ul>
+      </li>
+      </ul>
+      
+      ![image](https://github.com/MAILFERT-Sebastien/LABVIEW-Nikon-Ti2-microscope-control/blob/main/regsvr32_32bit.png).
+      
 2. Labview code
 
 ## Running the tests
