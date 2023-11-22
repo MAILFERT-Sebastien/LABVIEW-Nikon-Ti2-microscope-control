@@ -1,10 +1,10 @@
 # LABVIEW control of a Nikon Ti2 microscope
 
 ## Aim
-Ce logiciel est destiné à piloter un microscope Nikon Ti2 via Labview.
+This software is designed to control a Nikon Ti2 microscope via Labview.
 
 ## Prerequisites
-Ce programme a été testé sous Labview 2023 Q3 64 bits. Il est donc nécessaire de posséder une version installée de Labview 2023 Q3 minimum.
+This program has been tested under Labview 2023 Q3 64-bit. It is therefore necessary to have at least one version of Labview 2023 Q3 installed. If you contact me, I can provide you with a version that is compatible with an older version.
 
 
 ## Installing
@@ -12,28 +12,30 @@ Ce programme a été testé sous Labview 2023 Q3 64 bits. Il est donc nécessair
 
 1. Nikon DLLs
    
-Il est nécessaire d'installer au préalable les dll provenant du SDK Nikon:
+Dlls from the Nikon SDK must be installed first::
 
-* Créer un compte sur le site [NISDK](https://nisdk.recollective.com/microscopes)
-* Attendre la confirmation de l'inscription (sous plusieurs jours)
-* Une fois identifié sur le site, vous aurez accès à différents SDK:
+* Create an account on the website [NISDK](https://nisdk.recollective.com/microscopes)
+* Wait for confirmation of registration (several days)
+* Once you've logged on to the site, you'll have access to various SDKs:
 
 ![image](https://github.com/MAILFERT-Sebastien/-LABVIEW-Nikon-Ti2-microscope-control/assets/150167221/76514f46-949e-4739-8f99-eeed769e7f44)
 
-* Téléchargez, dézippez et installez les deux SDK suivants: "Nikon Ti2 SDK 64-Bit" et "Nikon Ti2 ActiveX Wrapper 64-Bit"
+* Download, unzip and install the two following SDKs: "Nikon Ti2 SDK 64-Bit" and "Nikon Ti2 ActiveX Wrapper 64-Bit"
 
-* Installez les dll:
-** Ouvrir l'invité de commandes en mode administrateur
-** Se placer dans le répertoire C:/SysWOW64
-** Tapez la commande: 
-
+* Install the dlls:
+** Open the command prompt in administrator mode
+** Move to the C:/SysWOW64 directory
+** Type the command: 
+regsvr32 "C:\Program Files\Nikon\Ti2-SDK\bin\NkTi2Ax.dll"
 
 ## Running the tests
 
 ## Versioning
 
 ## Authors
+Sébastien MAILFERT, Institut Fresnel, CNRS, AMU
 
 ## Licence
 
 ## Acknowledgments
+Sébastien MAILFERT
