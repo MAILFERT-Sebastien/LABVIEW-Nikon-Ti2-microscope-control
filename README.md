@@ -52,15 +52,31 @@ This program has been tested under Labview 2014 32-bit. It is therefore necessar
       ![image](https://github.com/MAILFERT-Sebastien/LABVIEW-Nikon-Ti2-microscope-control/blob/main/regsvr32_32bit.png)
       
 2. Labview code
+      Copy the 5 Labview files on your desktop. Several Labview files are provided:
+      <ul>
+      <li> <i>Nikon_Ti2_Control.lvproj</i> : the project file itself</li>
+      <li> <i>231107_Nikon_Control.vi</i> : the main file</li>
+      <li> <i>231107_Nikon_CheckStatus.vi</i> : the file used to retrieve microscope status in the form of a complete cluster</li>
+      <li> <i>231107_Cluster_MAJ.vi</i> : the file used to convert the microscope's complete status cluster into a cluster usable for the interface</li>
+      <li> <i>231106_Nikon_Led.vi</i> : file for generating green LEDs according to microscope status (eyepieces, left port, right port, mix)</li>
+      </ul>
 
 ## Running the tests
 
+1. Open the <i>Nikon_Ti2_Control.lvproj</i> project file
+2. Open the <i>231107_Nikon_Control.vi</i> file by bouble-clinking oon its name in the project
+3. Click <i>Run</i>
+
 ## Versioning
 
+V1.0
+
 ## Authors
-Sébastien MAILFERT, Institut Fresnel, CNRS, AMU
+Sébastien MAILFERT from Institut Fresnel (Marseille, France), CNRS, AMU
 
 ## Licence
+GNU General Public License v3.0
+GNU GPLv3.0
 
 ## Acknowledgments
 Sébastien MAILFERT
