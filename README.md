@@ -8,7 +8,7 @@ As you can see on the following video, the Labview GUI is simple and allows to r
 
 
 ## Prerequisites
-This program has been tested under Labview 2014 32-bit. It is therefore necessary to have at least one version of Labview 2014 installed. If you contact me, I can provide you with a version that is compatible with yours (older or newest).
+This program has been tested under Labview 2023 64-bit. It is therefore necessary to have at least one version of Labview 2023 installed. If you contact me, I can provide you with a version that is compatible with yours (older or newest).
 
 
 ## Installing
@@ -64,15 +64,19 @@ This program has been tested under Labview 2014 32-bit. It is therefore necessar
 ## Running the tests
 
 1. Open the <i>Nikon_Ti2_Control.lvproj</i> project file
-2. Open the <i>231107_Nikon_Control.vi</i> file by bouble-clinking oon its name in the project
-3. Click <i>Run</i>
+2. Double-click on the <i>231124_Nikon_Control.vi</i> file
+![image](https://github.com/MAILFERT-Sebastien/LABVIEW-Nikon-Ti2-microscope-control/blob/main/Images/Start_Project.png)
+
+4. Click on the <i>Run</i> arow to run the vi
+![image](https://github.com/MAILFERT-Sebastien/LABVIEW-Nikon-Ti2-microscope-control/blob/main/Images/Start_Control.png)
 
 ## Versioning
 
-V1.0, 231107
+V1.0, 231124
 
 ## Authors
-Sébastien MAILFERT from Institut Fresnel (Marseille, France), CNRS, AMU
+Sébastien MAILFERT
+Institut Fresnel (Marseille, France), CNRS, AMU
 
 ## Licence
 GNU General Public License v3.0
