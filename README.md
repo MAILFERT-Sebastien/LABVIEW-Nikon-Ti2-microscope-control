@@ -67,7 +67,7 @@ This program has been tested under Labview 2023 64-bit. It is therefore necessar
 2. Double-click on the <i>231124_Nikon_Control.vi</i> file
 ![image](https://github.com/MAILFERT-Sebastien/LABVIEW-Nikon-Ti2-microscope-control/blob/main/Images/Start_Project.png)
 
-4. Click on the <i>Run</i> arow to run the vi
+4. Click on the <i>Run</i> arrow to run the vi
 ![image](https://github.com/MAILFERT-Sebastien/LABVIEW-Nikon-Ti2-microscope-control/blob/main/Images/Start_Control.png)
 
 ## Versioning
