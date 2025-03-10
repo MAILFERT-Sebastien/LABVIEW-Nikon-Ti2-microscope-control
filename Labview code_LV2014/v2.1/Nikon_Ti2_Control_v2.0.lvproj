@@ -98,6 +98,62 @@
 				<Property Name="TgtF_targetfileGUID" Type="Str">{6CFCE4EF-A383-49D5-8AEC-64668B1EF2CA}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Application.exe</Property>
 			</Item>
+			<Item Name="250310_Nikon_Control" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{7E10D359-8049-4777-9515-F2278529B4A2}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{5FBE8D08-A212-4BE5-9870-0EBD311B5409}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_winsec.description" Type="Str">http://www.IPGP.com</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{EC1812CF-3BC3-41F2-BD88-9F3D8A023420}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">250310_Nikon_Control</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/250310_Nikon_Control</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{AD223840-C56F-4FC8-9229-DC23EFB9C7D2}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">250310_Nikon_Control.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/250310_Nikon_Control/250310_Nikon_Control.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/250310_Nikon_Control/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{8F904AAB-2A90-4F46-943B-67635D15BACC}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/250310_Nikon_Control.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Presets.ctl</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[2].type" Type="Str">VI</Property>
+				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/My Computer/SubVis/250224_Cluster_MAJ.vi</Property>
+				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[3].type" Type="Str">VI</Property>
+				<Property Name="Source[4].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[4].itemID" Type="Ref">/My Computer/SubVis/250224_Nikon_CheckStatus.vi</Property>
+				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[4].type" Type="Str">VI</Property>
+				<Property Name="Source[5].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[5].itemID" Type="Ref">/My Computer/SubVis/250224_Nikon_Led.vi</Property>
+				<Property Name="Source[5].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[5].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">6</Property>
+				<Property Name="TgtF_companyName" Type="Str">IPGP</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">250310_Nikon_Control</Property>
+				<Property Name="TgtF_internalName" Type="Str">250310_Nikon_Control</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2025 IPGP</Property>
+				<Property Name="TgtF_productName" Type="Str">250310_Nikon_Control</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{513CD216-79D4-4335-9F46-2D11B0F05AE6}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">250310_Nikon_Control.exe</Property>
+			</Item>
 		</Item>
 	</Item>
 </Project>
