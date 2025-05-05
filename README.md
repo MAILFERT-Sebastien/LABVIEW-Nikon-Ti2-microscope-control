@@ -75,6 +75,8 @@ This program has been tested under Labview 2023 64-bit. It is therefore necessar
 ## Versioning
 
 V1.0, 231124
+V1.4, 250505, addition of presets
+V2.1, 250430, addition of the control of motorized filter turrets
 
 ## Authors
 Sébastien MAILFERT
