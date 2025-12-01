@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="14008000">
+<Project Type="Project" LVVersion="25008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -24,6 +24,7 @@
 				<Property Name="App_INI_aliasGUID" Type="Str">{9AAAE038-6B4A-4809-A7FF-904B2577F6B3}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{AFA96B34-09F1-47E4-A1F5-2C2454D4B34A}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">1</Property>
 				<Property Name="App_winsec.description" Type="Str">http://www.IPGP.com</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{88DFE1D4-A538-4084-AD7F-32C72DEF4DDA}</Property>
@@ -64,6 +65,7 @@
 				<Property Name="App_INI_aliasGUID" Type="Str">{40EB9DC8-BDC3-42D6-86F8-AE40D3F7E27A}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{4943D445-FDB4-49D3-9D1C-F61F584CCE46}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">1</Property>
 				<Property Name="App_winsec.description" Type="Str">http://www.IPGP.com</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{1FD03CA7-B801-4823-B891-A9F060D52450}</Property>
@@ -103,6 +105,7 @@
 				<Property Name="App_INI_aliasGUID" Type="Str">{7E10D359-8049-4777-9515-F2278529B4A2}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{5FBE8D08-A212-4BE5-9870-0EBD311B5409}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">1</Property>
 				<Property Name="App_winsec.description" Type="Str">http://www.IPGP.com</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{EC1812CF-3BC3-41F2-BD88-9F3D8A023420}</Property>
