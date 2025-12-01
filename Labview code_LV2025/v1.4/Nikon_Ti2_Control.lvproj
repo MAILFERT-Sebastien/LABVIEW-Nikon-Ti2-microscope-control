@@ -1,9 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<<<<<<<< HEAD:Labview code/OLD/Nikon_Ti2_Control.lvproj
-<Project Type="Project" LVVersion="23008000">
-========
 <Project Type="Project" LVVersion="25008000">
->>>>>>>> 9f5514e986bbd4e5665cd0d9c1b7972368984057:Labview code_LV2025/v1.3/Nikon_Ti2_Control.lvproj
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -14,16 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-<<<<<<<< HEAD:Labview code/OLD/Nikon_Ti2_Control.lvproj
-		<Item Name="231124_Cluster_MAJ.vi" Type="VI" URL="../231124_Cluster_MAJ.vi"/>
-		<Item Name="231124_Nikon_CheckStatus.vi" Type="VI" URL="../231124_Nikon_CheckStatus.vi"/>
-		<Item Name="231124_Nikon_Control.vi" Type="VI" URL="../231124_Nikon_Control.vi"/>
-		<Item Name="231124_Nikon_Led.vi" Type="VI" URL="../231124_Nikon_Led.vi"/>
-========
 		<Item Name="Labview code" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
->>>>>>>> 9f5514e986bbd4e5665cd0d9c1b7972368984057:Labview code_LV2025/v1.3/Nikon_Ti2_Control.lvproj
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="231107_Nikon_Control" Type="EXE">
