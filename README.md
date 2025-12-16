@@ -78,9 +78,8 @@ This program has been tested under Labview 2025 64-bit. It is therefore necessar
 	<li> V1.4, 250505, addition of presets</li>
 	<li> V2.1, 250430, addition of the control of motorized filter turrets</li>
 	<li> V2.2, 251201, addition of the control of the Perfect Focus System </li>
-	<li> V3.0, 251226, addition of the control of an XY stage and refactoring of </li>
+	<li> V3.0, 251226, addition of the control of an XY stage and refactoring of the project </li>
 </ul>
-the project
 
 ## Authors
 Sebastien MAILFERT
